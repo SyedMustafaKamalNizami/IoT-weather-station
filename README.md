@@ -1,4 +1,4 @@
-# IoT-weather-station
+# esp 32 based IoT-weather-station
 IoT based weather station using esp32 and blynk IoT platform
 
 Project Overview:
