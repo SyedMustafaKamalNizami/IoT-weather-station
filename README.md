@@ -45,7 +45,8 @@ The MQ135 sensor measures CO2 levels, triggering an LED alarm if concentrations 
 
 Environmental Data Transmission
 
-Atmospheric pressure data from the BMP180 sensor is sent to Blynk virtual pin V8, while light intensity readings are transmitted to V7. A 1-second delay ensures optimal sensor performance and prevents data overload.
+Atmospheric pressure data from the BMP180 sensor is sent to Blynk virtual pin V8, while light intensity readings are transmitted to V7. A 
+1-second delay ensures optimal sensor performance and prevents data overload.
 
 Code Structure Overview
 
