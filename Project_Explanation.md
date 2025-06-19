@@ -1,7 +1,7 @@
 # esp 32 based IoT-weather-station
 IoT based weather station using esp32 and blynk IoT platform
 
-Project Overview:
+Project Overview
 
 This project is an IoT-based weather station designed to provide real-time environmental monitoring using the Blynk platform. Built on the ESP32 microcontroller, the system integrates several sensors to measure key atmospheric parameters including temperature, humidity, carbon dioxide (CO₂) levels, atmospheric pressure, and ambient light intensity. The sensors used are DHT22 for temperature and humidity, MQ135 for air quality and CO₂ estimation, BMP180 for barometric pressure and temperature, and BH1750 for measuring light intensity. A blinking alarm LED is incorporated to provide a visual warning when CO₂ levels exceed 1000 ppm. All sensor data is transmitted to and displayed on the Blynk mobile app, allowing users to monitor environmental conditions remotely.
 
